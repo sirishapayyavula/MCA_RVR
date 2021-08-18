@@ -1,0 +1,9 @@
+{
+    "token": "90936236|-31948852686357576|90943654",
+    "cmd": "GET",
+    "dbName": "Employee",
+    "rel": "Emp.Rel",
+    "jsonStr":{
+        "email": "abcd@gmail.com",
+    }
+}
