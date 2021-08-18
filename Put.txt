@@ -1,0 +1,10 @@
+{
+    "token":"90936236|-31948852686357576|90943654",  
+    "cmd": "PUT",
+    "dbName": "Employee",
+    "rel": "Emp.Rel",
+    "jsonStr": {
+        "name": "Sulbha Mishra",
+        "email": "sulbhamishra@gmail.com",
+    }
+}
